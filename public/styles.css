@@ -1,0 +1,71 @@
+.title {
+  text-align: center;
+}
+
+.searches {
+  height: 50px;
+  margin-top: 2%;
+}
+
+.bar-1 {
+  float: left;
+  text-align: center;
+  width: 40%;
+}
+
+.bar-2 {
+  float: right;
+  text-align: center;
+  width: 40%;
+}
+
+.search-bar {
+  width: 80%;
+}
+
+.submit {
+  display: inline-block;
+  position: relative;
+  text-align: center;
+  margin: auto auto;
+  width: 20%;
+}
+
+.suggestions {
+  background-color: #D3D3D3;
+  border-bottom-left-radius: 2%;
+  border-bottom-right-radius: 2%;
+  margin-left: 9.5%;
+  text-align: left;
+  max-height: 100px;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  width: 81%;
+}
+
+.highlighted {
+  background-color: #bababa;
+}
+
+.suggestions ul {
+  margin: 2px;
+  padding: 0px 0px 3px 0px;
+}
+
+.info {
+  height: 30px;
+}
+
+.map {
+  height: 530px;
+  width: 100%;
+}
+
+.distance {
+  font-size: 18px;
+}
+
+.emphasis {
+  font-size: 20px;
+  font-style: oblique;
+}
